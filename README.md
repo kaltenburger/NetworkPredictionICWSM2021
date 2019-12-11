@@ -5,15 +5,15 @@ Replication code for ICWSM'20 Paper ``What is the Node Attribute Prediction Task
 This repository contains all the corresponding code to recreate tables and figures.
 
 ### Directions
-1. Placeholder
+1. Save data in corresponding data folders. 
 
 2. How to run code where folder organization is briefly described below: 
-  * ./data/: Placeholder folder for placing raw datasets.
+  * ./data/: Placeholder folder for storing raw datasets. We use the Facebook100 (FB100) dataset (Traud et al. 2011; Traud, Mucha, and Porter 2012), the Copenhagen Networks Study (Stopczynski et al. 2014) and the Reality Mining dataset (Eagle and Pentland 2006).
   * ./code/: Code for recreating tables and figures in main paper. 
   * ./figs/: Folder for all figures.
   * ./output/: Output files generated from some of the scripts in the ./code/ folder.
 
-All code was writted and tested for Python XYZ
+3. For all the ReFeX code -- we adapt from https://github.com/LLNL/refex-rolx.
 
 ### Authors
 * Kristen M. Altenburger, kristenaltenburger@gmail.com
