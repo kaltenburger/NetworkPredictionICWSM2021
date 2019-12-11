@@ -13,7 +13,7 @@ This repository contains all the corresponding code to recreate tables and figur
   * ./figs/: Folder for all figures.
   * ./output/: Output files generated from some of the scripts in the ./code/ folder.
 
-3. For all the ReFeX code -- we adapt from https://github.com/LLNL/refex-rolx.
+3. For all the ReFeX code, we adapt from https://github.com/LLNL/refex-rolx.
 
 ### Authors
 * Kristen M. Altenburger, kristenaltenburger@gmail.com
