@@ -13,10 +13,10 @@ from imblearn.under_sampling import ClusterCentroids
 from imblearn.under_sampling import RandomUnderSampler
 folder_directory =os.getcwd()
 os.chdir(folder_directory)
-execfile('python_libraries.py')
-execfile('LINK.py')
-execfile('parsing.py')  # Sam Way's Code
-execfile('mixing.py')   # Sam Way's Code
+execfile('./functions/python_libraries.py')
+execfile('./functions/LINK.py')
+execfile('./functions/parsing.py')  # Sam Way's Code
+execfile('./functions/mixing.py')   # Sam Way's Code
 execfile('create_adjacency_matrix.py')
 np.seterr(divide='ignore', invalid='ignore')
 y_predict_type = 'gender' # gender
