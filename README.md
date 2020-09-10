@@ -1,5 +1,5 @@
 ## Node Attribute Prediction
-Replication code for ICWSM'20 Paper ``What is the Node Attribute Prediction Task? Within-Network, Across-Network, versus Across-Layer Tasks''.
+Replication code for ICWSM'21 Paper ``What is the Node Attribute Prediction Task? Within-Network, Across-Network, versus Across-Layer Tasks''.
 
 ### Documentation
 This repository contains all the corresponding code to recreate tables and figures.
