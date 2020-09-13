@@ -11,7 +11,7 @@ This repository contains all the corresponding code to recreate tables and figur
   * ./data/: Placeholder folder for storing raw datasets. We use the Facebook100 (FB100) dataset (Traud et al. 2011; Traud, Mucha, and Porter 2012), the Copenhagen Networks Study (Stopczynski et al. 2014) and the Reality Mining dataset (Eagle and Pentland 2006).
   * ./code/: Code for recreating tables and figures in main paper. Note that relative file directories will have to be updated in the code as needed.
   * ./figs/: Folder for all figures.
-  * ./output/: Output files generated from some of the scripts in the ./code/ folder.
+  * [KEEP?] ./output/: Output files generated from some of the scripts in the ./code/ folder.
 
 3. For all the ReFeX code, we adapt from https://github.com/LLNL/refex-rolx.
 
