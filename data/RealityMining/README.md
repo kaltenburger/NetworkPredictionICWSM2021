@@ -1,1 +1,1 @@
-Placeholder for Reality Mining Dataset.
+Data availability. The RealityMining dataset is publicly available https://github.com/j2kun/reality-mining and other public repositories. Note we adapt the code from this repo for processing the dataset and include the modified script here as well for reference.
